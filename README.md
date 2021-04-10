@@ -44,7 +44,7 @@
 
 </details>
 
-[website]: www.codingshogun.com
+[website]: https://www.codingshogun.com
 [twitter]: https://twitter.com/capeandcode
 [linkedin]: https://linkedin.com/in/prashantbrahmbhatt
 
