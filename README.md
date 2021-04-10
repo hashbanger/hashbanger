@@ -5,7 +5,7 @@
 
 ## I'm a Data Scientist 📊📈 and a Computer Engineer 🖥 !!
 
-- 💼 I am working as a Data Science Engineer from more than a year now.  
+- 💼 I am working as a Data Science Engineer for more than a year now.  
 - 🌱 I love enhancing my skills in Statistics and Machine Learning.
 - 📚 I like to read a lot of books, preferably from Philosophy.
 - 🐤 You can read some of my best Twitter threads about Data Science [here](https://github.com/hashbanger/Twitter)
