@@ -1,13 +1,13 @@
-### Hi there, I'm Prashant [Website][website] 👋
+### Hi there, I'm Prashant 👋
 
 [![Website](https://img.shields.io/website?label=codingshogun.com&style=for-the-badge&url=https%3A%2F%2Fcodingshogun.com)](https://www.codingshogun.com)
 [![Twitter Follow](https://img.shields.io/twitter/follow/capeandcode?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fcapeandcode&screen_name=capeandcode)
 
-## I'm a Data Scientist and a Computer Engineer !!
+## I'm a Data Scientist 📊📈 and a Computer Engineer 🖥 !!
 
 - 💼 I am working as a Data Scientist from more than a year now.  
 - 🌱 I try to keep enhancing my skills in Statistics and Machine Learning.
-- ⚡ I like to read a lot of books, preferably from Philosophy.
+- 📚 I like to read a lot of books, preferably from Philosophy.
 
 ### Connect with me:
 
