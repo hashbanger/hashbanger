@@ -34,8 +34,9 @@
 
 <details>
   <summary>:zap: GitHub Stats</summary>
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=hashbanger&show_icons=true&theme=tokyonight)
 
-  <img align="left" alt="hashbanger's GitHub Stats" src="https://github-readme-stats.hashbanger.vercel.app/api?username=hashbanger&show_icons=true&hide_border=true" />
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hashbanger&theme=tokyonight)
 
 </details>
 
