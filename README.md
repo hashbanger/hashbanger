@@ -1,21 +1,36 @@
-### Hi there, I'm Prashant 👋
+### Hello.
 
-[![Website](https://img.shields.io/website?label=codingshogun.com&style=for-the-badge&url=https%3A%2F%2Fcodingshogun.com)](https://www.codingshogun.com)
-[![Twitter Follow](https://img.shields.io/twitter/follow/capeandcode?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fcapeandcode&screen_name=capeandcode)
+My name is Prashant Brahmbhatt and I am  an Engineer currently working as a ***Data Scientist*** since completing my graduation in Information Technology. 
 
-## I'm a Data Scientist 📊📈 and a Computer Engineer 🖥 !!
+I deal with ***Machine Learning*** domain problems in my professional life such as  image processing, natural language processing and data analysis.
+I am *less-mathematician-more-programmer* data scientist who self learned the domain through online sources and trying to catch up with all the mathematical aspects of the practical knowledge that I apply everyday.
 
-- 💼 I am working as a Data Science Engineer for more than a year now.  
-- 🌱 I love enhancing my skills in Statistics and Machine Learning.
-- 📚 I like to read a lot of books, preferably from Philosophy.
-- 🐤 You can read some of my best Twitter threads about Data Science [here](https://github.com/hashbanger/Twitter)
 ### Connect with me:
+[![Website](https://img.shields.io/website?label=codingshogun.com&style=for-the-badge&url=https%3A%2F%2Fcodingshogun.com)](https://www.codingshogun.com)
+
+[![Twitter Follow](https://img.shields.io/twitter/follow/capeandcode?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fcapeandcode&screen_name=capeandcode)
+  
 
 [<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+
 [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
-<br />
+  
+
+<br  />
+
+## Education and Profession
+
+**SOFTWARE ENGINEER | DATA SCIENCE**
+*[To The New](https://www.tothenew.com/) December 2020 - Present*
+
+**TRAINEE | DATA SCIENCE**
+*[To The New](https://www.tothenew.com/) February 2020 - December 2020*
+
+**BACHELOR OF TECHNOLOGY (B. Tech), INFORMATION TECHNOLOGY**
+*IMS Engineering College, 2016 - 2020*
 
 ### Languages and Tools:
 
