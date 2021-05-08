@@ -1,8 +1,8 @@
 ### Hello.
 
-My name is Prashant Brahmbhatt and I am  an Engineer currently working as a ***Data Scientist*** since completing my graduation in Information Technology. 
+My name is Prashant Brahmbhatt. I am an Engineer currently working as a ***Data Scientist***.
 
-I deal with ***Machine Learning*** domain problems in my professional life such as  image processing, natural language processing and data analysis.
+In my professional life I deal with problems in the domain of ***Machine Learning***, such as  image processing, natural language processing and data analysis & vizualisation.
 I am *less-mathematician-more-programmer* data scientist who self learned the domain through online sources and trying to catch up with all the mathematical aspects of the practical knowledge that I apply everyday.
 
 ### Connect with me:
@@ -25,6 +25,8 @@ I am *less-mathematician-more-programmer* data scientist who self learned the do
 
 **SOFTWARE ENGINEER | DATA SCIENCE**
 *[To The New](https://www.tothenew.com/) December 2020 - Present*
+I have been working as a full-time employee at To The New since after the completion of my training program. Since then I have mostly worked on projects from computer vision, time-series analysis and data driven predictive modeling. 
+I work as a programmer in the projects using tech stack like Python, SQL, AWS, No-Sql Databases, etc.  
 
 **TRAINEE | DATA SCIENCE**
 *[To The New](https://www.tothenew.com/) February 2020 - December 2020*
