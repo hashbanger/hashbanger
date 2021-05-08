@@ -1,9 +1,9 @@
 ### Hello.
 
-My name is Prashant Brahmbhatt. I am an Engineer currently working as a ***Data Scientist***.
+My name is Prashant. I am an Engineer currently working as a ***Data Scientist***.
 
 In my professional life I deal with problems in the domain of ***Machine Learning***, such as  image processing, natural language processing and data analysis & vizualisation.
-I am *less-mathematician-more-programmer* data scientist who self learned the domain through online sources and trie to catch up with all the mathematical aspects of the practical knowledge that I apply everyday as much as I could.
+I am *less-mathematician-more-programmer* data scientist who self learned the domain through online sources and trying to catch up with all the mathematical aspects of the practical knowledge that I apply everyday as much as I could.
 
 ### Connect with me:
 [![Website](https://img.shields.io/website?label=codingshogun.com&style=for-the-badge&url=https%3A%2F%2Fcodingshogun.com)](https://www.codingshogun.com)
@@ -58,13 +58,24 @@ I completed my bachelors with the specialization in information technogy and cou
 <br />
 <br />
 
+## Certifications  
+
+- [Deep Learning Specialization](certifications/Deep_Learning_Specialization.pdf) *Coursera*
+- [AWS Technical Professional](certifications/AWS_Technical_Professional_Digital.pdf) *AWS*
+- [AWS Business Professional (Digital)](certifications/AWS_Business_Professional_Digital.pdf) *AWS*
+- [Scientific Computing with Python](certifications/Scientific_Computing_with_Python.pdf) *WorldQuant University*
+- [Introduction to Machine Learning](certifications/NPTEL_Machine_Learning.pdf) *NPTEL*
+- [Basic Statistics](certifications/Basic_Statistics.pdf) *Coursera*
+- [National Conference on Recent Advancements in IT & Computing](certifications/IMS_Research_paper.pdf) *IMS Engineering College*
+- [Time-Series Analysis](certifications/Udemy_Time_Series_Analysis.pdf) *Udemy*
+
 ## Other Interests  
 
 - I write threads on Machine Learning and Data Science on twitter and you can find them [here](https://github.com/hashbanger/Twitter) too.
 - I am a generalist and have strong interest in Literature, Art, History and Sports.
 - Reading books on Philosophy & Psychology is one of the things I enjoy the most.
 - I like studying about renessaince art; paintings and statues.
-- I am a *[Chelsea](www.chelseafc.com)* supporter.
+- I watch football and a *[Chelsea](https://www.chelseafc.com)* supporter.
 
 [website]: https://www.codingshogun.com
 [twitter]: https://twitter.com/capeandcode
