@@ -74,6 +74,7 @@ I completed my bachelors with the specialization in information technogy and cou
 - I write threads on Machine Learning and Data Science on twitter and you can find them [here](https://github.com/hashbanger/Twitter) too.
 - I am a generalist and have strong interest in Literature, Art, History and Sports.
 - Reading books on Philosophy & Psychology is one of the things I enjoy the most.
+    - [My Reading List](https://www.notion.so/Prashant-s-Reading-List-753bcea0c5d049b9b928aeff4f4505c9)   
 - I like studying about renessaince art; paintings and statues.
 - I watch football and a *[Chelsea](https://www.chelseafc.com)* supporter.
 
