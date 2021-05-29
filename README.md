@@ -12,7 +12,7 @@ I am *less-mathematician-more-programmer* data scientist who self learned the do
   
 ***If you like what you see and want to show your appreciation, buy me a coffee by clicking the banner!***
 
-[![Website](https://symbols.getvecta.com/stencil_75/161_buymeacoffee-official.9fa7c5dc79.jpg)](https://www.buymeacoffee.com/hashbanger)
+[![Website](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcdn-images-1.medium.com%2Fmax%2F738%2F1*G95uyokAH4JC5Ppvx4LmoQ%402x.png&f=1&nofb=1)](https://www.buymeacoffee.com/hashbanger)
 
 [<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 
