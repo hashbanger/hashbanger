@@ -10,7 +10,7 @@ I am *less-mathematician-more-programmer* data scientist who self learned the do
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/capeandcode?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fcapeandcode&screen_name=capeandcode)
   
-***If you like what you see and want to show your appreciation, buy me a coffee by clicking the banner!***
+***If you find anything helpful to you, click the banner and show your appreciation!***
 
 [![Website](assets/bmac.jpg)](https://www.buymeacoffee.com/hashbanger)
 
