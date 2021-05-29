@@ -10,6 +10,10 @@ I am *less-mathematician-more-programmer* data scientist who self learned the do
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/capeandcode?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fcapeandcode&screen_name=capeandcode)
   
+***If you like what you see and want to show your appreciation, buy me a coffee!**
+![bmac]
+
+[<img align="left" alt="buymeacoffee.com" width="100px" src="https://symbols.getvecta.com/stencil_75/161_buymeacoffee-official.9fa7c5dc79.jpg" />][buymeacoffee]
 
 [<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 
@@ -79,10 +83,8 @@ I completed my bachelors with the specialization in information technogy and cou
 - I watch football and a *[Chelsea](https://www.chelseafc.com)* supporter.
 
 
-***If you like what you see and want to show your appreciation, buy me a coffee!**
-![bmac]https://symbols.getvecta.com/stencil_75/161_buymeacoffee-official.9fa7c5dc79.jpg
-
 [website]: https://www.codingshogun.com
 [twitter]: https://twitter.com/capeandcode
 [linkedin]: https://linkedin.com/in/prashantbrahmbhatt
+[buymeacoffee]: https://www.buymeacoffee.com/hashbanger
 
