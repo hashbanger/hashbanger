@@ -10,10 +10,9 @@ I am *less-mathematician-more-programmer* data scientist who self learned the do
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/capeandcode?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fcapeandcode&screen_name=capeandcode)
   
-***If you like what you see and want to show your appreciation, buy me a coffee!**
-![bmac]
+***If you like what you see and want to show your appreciation, buy me a coffee by clicking the banner!***
 
-[<img align="left" alt="buymeacoffee.com" width="100px" src="https://symbols.getvecta.com/stencil_75/161_buymeacoffee-official.9fa7c5dc79.jpg" />][buymeacoffee]
+[![Website](https://symbols.getvecta.com/stencil_75/161_buymeacoffee-official.9fa7c5dc79.jpg)](https://www.buymeacoffee.com/hashbanger)
 
 [<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 
