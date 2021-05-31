@@ -14,6 +14,9 @@ I am *less-mathematician-more-programmer* data scientist who self learned the do
 
 [![Website](assets/bmac.jpg)](https://www.buymeacoffee.com/hashbanger)
 
+[![Website](assets/patreon.png)](https://www.patreon.com/hashbanger)
+
+
 [<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 
 [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
