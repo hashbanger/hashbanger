@@ -64,6 +64,7 @@ I completed my bachelors with the specialization in information technogy and cou
 
 ## Certifications  
 
+- [Tensorflow Developer Certificate](https://www.credential.net/abac1834-556b-4162-9b98-a6dc7ba21d70#gs.m4r6me) *Google*
 - [Deep Learning Specialization](certifications/Deep_Learning_Specialization.pdf) *Coursera*
 - [AWS Technical Professional](certifications/AWS_Technical_Professional_Digital.pdf) *AWS*
 - [AWS Business Professional (Digital)](certifications/AWS_Business_Professional_Digital.pdf) *AWS*
