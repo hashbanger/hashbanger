@@ -22,11 +22,17 @@ I am _less-mathematician-more-programmer_ data scientist who self learned the do
 
 ## Education and Profession
 
+**SENIOR ENGINEER | DATA SCIENCE**
+
+_[Nagarro](https://www.nagarro.com/) Septemeber 2022 - Present_
+
+I am working as a full-time employee for Nagarro as a senior engineer in data science.
+
 **SOFTWARE ENGINEER | DATA SCIENCE**
 
-_[To The New](https://www.tothenew.com/) December 2020 - Present_
+_[To The New](https://www.tothenew.com/) December 2020 - Septemeber 2022_
 
-I have been working as a full-time employee at To The New since after the completion of my training program. Since then I have mostly worked on projects from computer vision, time-series analysis and data driven predictive modeling.
+I worked as a full-time employee at To The New since after the completion of my training program. Since then I have mostly worked on projects from computer vision, time-series analysis and data driven predictive modeling.
 I work as a programmer in the projects using tech stack like Python, SQL, AWS, No-Sql Databases, etc.
 
 **TRAINEE | DATA SCIENCE**
@@ -69,16 +75,7 @@ I completed my bachelors with the specialization in information technogy and cou
 - [National Conference on Recent Advancements in IT & Computing](certifications/IMS_Research_paper.pdf) _IMS Engineering College_
 - [Time-Series Analysis](certifications/Udemy_Time_Series_Analysis.pdf) _Udemy_
 
-## Other Interests
-
-- I write threads on Machine Learning and Data Science on twitter and you can find them [here](https://github.com/hashbanger/Twitter) too.
-- I am a generalist and have strong interest in Literature, Art, History and Sports.
-- Reading books on Philosophy & Psychology is one of the things I enjoy the most.
-  - [My Reading List](https://www.notion.so/Prashant-s-Reading-List-753bcea0c5d049b9b928aeff4f4505c9)
-- I like studying about renessaince art; paintings and statues.
-- I watch football and a _[Chelsea](https://www.chelseafc.com)_ supporter.
-
-[website]: https://www.codingshogun.com
+[biolink]: https://bio.link/prashantb
 [twitter]: https://twitter.com/capeandcode
 [linkedin]: https://linkedin.com/in/prashantbrahmbhatt
 [buymeacoffee]: https://www.buymeacoffee.com/hashbanger
