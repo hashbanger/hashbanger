@@ -23,7 +23,7 @@ _[Nagarro](https://www.nagarro.com/) Septemeber 2022 - Present_
 
 I am working as a full-time employee for Nagarro as a senior engineer in data science.
 
-<br><br/>
+---
 
 **SOFTWARE ENGINEER | DATA SCIENCE**
 
@@ -32,7 +32,7 @@ _[To The New](https://www.tothenew.com/) December 2020 - Septemeber 2022_
 I worked as a full-time employee at To The New since after the completion of my training program. Since then I have mostly worked on projects from computer vision, time-series analysis and data driven predictive modeling.
 I work as a programmer in the projects using tech stack like Python, SQL, AWS, No-Sql Databases, etc.
 
-<br><br/>
+---
 
 **TRAINEE | DATA SCIENCE**
 
@@ -40,7 +40,7 @@ _[To The New](https://www.tothenew.com/) February 2020 - December 2020_
 
 I joined the organization as a trainee in the Data Science competency and underwent the technial training program. During this time, I started working on the projects officially and also completed multiple POCs.
 
-<br><br/>
+---
 
 **BACHELOR OF TECHNOLOGY (B. Tech), INFORMATION TECHNOLOGY**
 
