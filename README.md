@@ -16,25 +16,18 @@ I am _less-mathematician-more-programmer_ data scientist who self learned the do
 <br/>
 
 ## Education and Profession
-**ASSOCIATE STAFF ENGINEER | DATA SCIENCE**
+**[Nagarro](https://www.nagarro.com/)**
 
-_[Nagarro](https://www.nagarro.com/) April 2023 - Present_
-
-I am working as a full-time employee for Nagarro as a senior engineer in data science.
-
----
-
-**SENIOR ENGINEER | DATA SCIENCE**
-
-_[Nagarro](https://www.nagarro.com/) Septemeber 2022 - March 2022
+_Associate Staff Engineer \[Data Science] (April 2024 - Present)_
+_Senior Engineer (September 2022 - March 2024)_
 
 I am working as a full-time employee for Nagarro as a senior engineer in data science.
 
 ---
 
-**SOFTWARE ENGINEER | DATA SCIENCE**
+**[To The New](https://www.tothenew.com/)**
 
-_[To The New](https://www.tothenew.com/) December 2020 - Septemeber 2022_
+_Software Engineer \[Data Science] (December 2020 - Septemeber 2022)_
 
 I worked as a full-time employee at To The New since after the completion of my training program. Since then I have mostly worked on projects from computer vision, time-series analysis and data driven predictive modeling.
 I work as a programmer in the projects using tech stack like Python, SQL, AWS, No-Sql Databases, etc.
