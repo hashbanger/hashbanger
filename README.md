@@ -18,9 +18,9 @@ I am _less-mathematician-more-programmer_ data scientist who self learned the do
 ## Education and Profession
 **[Nagarro](https://www.nagarro.com/)**
 
-**Associate Staff Engineer \[Data Science]** _(April 2024 - Present)_
+Associate Staff Engineer \[Data Science] _(April 2024 - Present)_
 <br>
-**Senior Engineer** _(September 2022 - March 2024)_
+Senior Engineer [Data Science] _(September 2022 - March 2024)_
 
 I am working as a full-time employee for Nagarro as a senior engineer in data science.
 
@@ -28,24 +28,15 @@ I am working as a full-time employee for Nagarro as a senior engineer in data sc
 
 **[To The New](https://www.tothenew.com/)**
 
-_Software Engineer \[Data Science] (December 2020 - Septemeber 2022)_
+Software Engineer \[Data Science] _(February 2020 - Septemeber 2022)_
 
 I worked as a full-time employee at To The New since after the completion of my training program. Since then I have mostly worked on projects from computer vision, time-series analysis and data driven predictive modeling.
 I work as a programmer in the projects using tech stack like Python, SQL, AWS, No-Sql Databases, etc.
 
 ---
+**IMS Engineering College**
 
-**TRAINEE | DATA SCIENCE**
-
-_[To The New](https://www.tothenew.com/) February 2020 - December 2020_
-
-I joined the organization as a trainee in the Data Science competency and underwent the technial training program. During this time, I started working on the projects officially and also completed multiple POCs.
-
----
-
-**BACHELOR OF TECHNOLOGY (B. Tech), INFORMATION TECHNOLOGY**
-
-_IMS Engineering College, 2016 - 2020_
+Bachelor of Technology (B. Tech), Information Technology _(2016 - 2020)_
 
 I completed my bachelors with the specialization in information technogy and coursework mostly dealt with subjects like Data Structures & Algorithms, Automata an Compiler Design, Operating Systems, Networking and Database Systems, etc.
 
