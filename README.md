@@ -19,6 +19,7 @@ I am _less-mathematician-more-programmer_ data scientist who self learned the do
 **[Nagarro](https://www.nagarro.com/)**
 
 _Associate Staff Engineer \[Data Science] (April 2024 - Present)_
+<br>
 _Senior Engineer (September 2022 - March 2024)_
 
 I am working as a full-time employee for Nagarro as a senior engineer in data science.
