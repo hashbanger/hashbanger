@@ -16,10 +16,17 @@ I am _less-mathematician-more-programmer_ data scientist who self learned the do
 <br/>
 
 ## Education and Profession
+**ASSOCIATE STAFF ENGINEER | DATA SCIENCE**
+
+_[Nagarro](https://www.nagarro.com/) April 2023 - Present_
+
+I am working as a full-time employee for Nagarro as a senior engineer in data science.
+
+---
 
 **SENIOR ENGINEER | DATA SCIENCE**
 
-_[Nagarro](https://www.nagarro.com/) Septemeber 2022 - Present_
+_[Nagarro](https://www.nagarro.com/) Septemeber 2022 - March 2022
 
 I am working as a full-time employee for Nagarro as a senior engineer in data science.
 
