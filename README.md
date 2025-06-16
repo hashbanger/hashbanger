@@ -20,7 +20,7 @@ I consider myself a "less-mathematician, more-programmer" data scientist — a s
 **[Fractal](https://www.fractal.ai/)**
 
 Senior Data Scientist _(June 2025 - )_
-<br>
+
 I am currently working as a full-time employee at Fractal, with a primary focus on the Generative AI and Natural Language Processing (NLP) domains.
 
 ---
