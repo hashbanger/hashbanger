@@ -16,13 +16,22 @@ I am _less-mathematician-more-programmer_ data scientist who self learned the do
 <br/>
 
 ## Education and Profession
+**[Fractal](https://www.fractal.ai/)**
+
+Senior Data Scientist _(June 2025 - )_
+I am currently working as a full-time employee at Fractal, with a primary focus on the Generative AI and Natural Language Processing (NLP) domains.
+
+---
+
 **[Nagarro](https://www.nagarro.com/)**
 
-Associate Staff Engineer \[Data Science] _(April 2024 - Present)_
+Associate Staff Engineer \[Data Science] _(April 2024 - June 2025)_
 <br>
 Senior Engineer [Data Science] _(September 2022 - March 2024)_
 
-I am working as a full-time employee for Nagarro as a senior engineer in data science.
+I worked at Nagarro where I primarily focused on the Generative AI domain, particularly in building chatbots and LLM-based applications. I developed multiple client-facing conversational agents and intelligent solutions, leveraging OpenAI models as the core of these systems.
+
+My work involved designing, implementing, and deploying end-to-end Generative AI applications tailored to specific business needs, with a strong focus on usability, relevance, and real-world integration.
 
 ---
 
@@ -30,8 +39,7 @@ I am working as a full-time employee for Nagarro as a senior engineer in data sc
 
 Software Engineer \[Data Science] _(February 2020 - Septemeber 2022)_
 
-I worked as a full-time employee at To The New since after the completion of my training program. Since then I have mostly worked on projects from computer vision, time-series analysis and data driven predictive modeling.
-I work as a programmer in the projects using tech stack like Python, SQL, AWS, No-Sql Databases, etc.
+I worked as a full-time employee at To The New after completing their training program. During my time there, I primarily contributed to projects involving computer vision, time-series analysis, and data-driven predictive modeling.
 
 ---
 **IMS Engineering College**
