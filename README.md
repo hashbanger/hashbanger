@@ -2,8 +2,9 @@
 
 My name is Prashant. I am an Engineer currently working as a **_Data Scientist_**.
 
-In my professional life I deal with problems in the domain of **_Machine Learning_**, such as image processing, natural language processing and data analysis & vizualisation.
-I am _less-mathematician-more-programmer_ data scientist who self learned the domain through online sources and trying to catch up with all the mathematical aspects of the practical knowledge that I apply everyday as much as I could.
+In my professional life, I work on problems in the domain of Machine Learning, including image processing, natural language processing, data analysis and visualization, and increasingly, Generative AI and Large Language Models (LLMs).
+
+I consider myself a "less-mathematician, more-programmer" data scientist — a self-learner who entered the field through hands-on experience and practical problem-solving. While I apply machine learning techniques daily, I continue to strengthen my understanding of the underlying mathematics to bridge the gap between theory and practice.
 
 ### Connect on Twitter:
 
