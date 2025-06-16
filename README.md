@@ -1,6 +1,6 @@
 ### Hello.
 
-My name is Prashant. I am an Engineer currently working as a **_Data Scientist_**.
+My name is Prashant. I am an Engineer currently working as a **_Senior Data Scientist_**.
 
 In my professional life, I work on problems in the domain of Machine Learning, including image processing, natural language processing, data analysis and visualization, and increasingly, Generative AI and Large Language Models (LLMs).
 
