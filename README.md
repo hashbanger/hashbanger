@@ -19,6 +19,7 @@ I am _less-mathematician-more-programmer_ data scientist who self learned the do
 **[Fractal](https://www.fractal.ai/)**
 
 Senior Data Scientist _(June 2025 - )_
+<br>
 I am currently working as a full-time employee at Fractal, with a primary focus on the Generative AI and Natural Language Processing (NLP) domains.
 
 ---
@@ -39,7 +40,7 @@ My work involved designing, implementing, and deploying end-to-end Generative AI
 
 Software Engineer \[Data Science] _(February 2020 - Septemeber 2022)_
 
-I worked as a full-time employee at To The New after completing their training program. During my time there, I primarily contributed to projects involving computer vision, time-series analysis, and data-driven predictive modeling.
+I worked as a full-time employee at To The New as my first organization. During my time there, I primarily contributed to projects involving computer vision, time-series analysis, and data-driven predictive modeling.
 
 ---
 **IMS Engineering College**
