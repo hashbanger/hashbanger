@@ -17,7 +17,7 @@ I consider myself a "less-mathematician, more-programmer" data scientist — a s
 <br/>
 
 ## Education and Profession
-**[TigerAnalytics]([https://www.fractal.ai/](https://www.tigeranalytics.com))**
+**[TigerAnalytics](https://www.fractal.ai/](https://www.tigeranalytics.com))**
 
 Senior Lead _(April 2026 - )_
 
