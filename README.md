@@ -17,11 +17,19 @@ I consider myself a "less-mathematician, more-programmer" data scientist — a s
 <br/>
 
 ## Education and Profession
+**[TigerAnalytics]([https://www.fractal.ai/](https://www.tigeranalytics.com))**
+
+Senior Lead _(April 2026 - )_
+
+I currently work at Tiger Analytics, where I focus on leading and designing scalable Generative AI solutions, with an emphasis on large language models, intelligent agents, and enterprise AI applications.
+
+---
+
 **[Fractal](https://www.fractal.ai/)**
 
-Senior Data Scientist _(June 2025 - )_
+Senior Data Scientist _(June 2025 - April 2026)_
 
-I am currently working as a full-time employee at Fractal, with a primary focus on the Generative AI and Natural Language Processing (NLP) domains.
+I worked at Fractal, focusing on System Design, Generative AI, and Natural Language Processing (NLP) solutions within the US healthcare domain.
 
 ---
 
